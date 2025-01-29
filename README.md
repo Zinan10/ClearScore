@@ -8,14 +8,14 @@ This project serves as a technical submission for the **ClearScore Mobile Tech T
 ---
 
 ## **Features**
-Fetches real-time **credit score** data from a given API endpoint  
-Displays the credit score using a **donut chart** visualization  
-Implements **error handling** for API failures and network issues  
-Provides a **responsive UI** that adapts to different screen sizes  
-**Unit-tested ViewModel** to ensure reliability  
-**Follows MVVM Architecture** for maintainability and scalability  
-**Uses Hilt for Dependency Injection** for modular and testable code  
-**Follows Clean Architecture** with clear separation of concerns
+ - Fetches real-time **credit score** data from a given API endpoint  
+- Displays the credit score using a **donut chart** visualization  
+- Implements **error handling** for API failures and network issues  
+- Provides a **responsive UI** that adapts to different screen sizes  
+- **Unit-tested ViewModel** to ensure reliability  
+- **Follows MVVM Architecture** for maintainability and scalability  
+- **Uses Hilt for Dependency Injection** for modular and testable code  
+- **Follows Clean Architecture** with clear separation of concerns
 
 ---
 
