@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClearScore</string>
+    <string name="you_credit_score">Your credit score is</string>
+    <string name="donut_max_score_label">out of %1$d</string>
+</resources>
