@@ -119,6 +119,10 @@ https://android-interview.s3.eu-west-2.amazonaws.com/endpoint.json
 **Improve Test Coverage** – Expand UI tests with Compose Test Rule
 
 ---
+## **App screenshot**
+
+![App Screenshot](app/src/main/java/com/app/clearscore/screenshots/App_screen.png)
+
 
 ## **Final Thoughts**
 This project demonstrates my ability to develop **scalable, testable, and maintainable** Android applications using **Jetpack Compose, MVVM, and Kotlin Coroutines**. I focused on **clean code practices, error handling, and testing** to ensure a high-quality submission.
